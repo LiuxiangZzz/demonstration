@@ -1,0 +1,18 @@
+# 构建产物
+build/
+demo
+*.o
+*.s
+*.dump
+
+# 编辑器文件
+.vscode/
+*.swp
+*~
+.DS_Store
+
+# 临时文件
+*.bak
+*.tmp
+*.log
+
