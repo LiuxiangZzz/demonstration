@@ -3,6 +3,8 @@
 /**
  * 主函数 - 典韦 vs 曹操 决斗
  */
+
+ //暂存
 int main(void) {
     /* 初始化随机数种子 */
     srand((unsigned int)time(NULL));
